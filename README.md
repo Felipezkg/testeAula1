@@ -1,1 +1,1 @@
-# testeAula1
+# Teste do Git, aula de Lógica da Programação.
